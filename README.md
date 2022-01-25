@@ -8,4 +8,4 @@ This rock-paper-scissors game was based on the Udemy course "Learn Go for Beginn
 3. In your CLI, type `go run main.go`
 4. Open up a browser and type in `http://localhost:8080`
 5. Play rock-paper-scissors to your heart's content
-6. Kindly let me share with me any improvements. Thank you!
+6. Kindly share with me any improvements or suggestions. Thank you!
